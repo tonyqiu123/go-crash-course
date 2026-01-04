@@ -1,3 +1,5 @@
+# Follow SETUP_GUIDE.md for step by step instructions of building the backend service
+
 # Backend-Go
 
 Go implementation of the backend service, providing a RESTful API for the bug-free-octo-spork application.
